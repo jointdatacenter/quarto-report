@@ -9,7 +9,7 @@ The repository is based on the [UNHCR Quarto RevealJS template](https://github.c
 To start a new presentation:
 
 ```bashs
-quarto use template jointdatacenter/quarto-revealjs-jdc
+quarto use template jointdatacenter/report-template
 ```
 
 This will install the extension and create an example qmd file that you can use as a starting place.
