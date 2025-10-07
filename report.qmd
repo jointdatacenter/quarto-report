@@ -19,7 +19,6 @@ To learn more about Quarto documents, see <https://quarto.org/docs/>.
 
 The YAML header defines the content and formatting of your report:
 
-
 ### Sections and Subsections
 
 - Level 1 headings (`#`) create main sections
