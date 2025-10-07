@@ -37,7 +37,6 @@ Unordered lists use bullet points:
   - Sub-item 1.1
   - Sub-item 1.2
 - Item 2
-- Item 3
 
 Ordered lists use numbers:
 
@@ -60,20 +59,6 @@ Include [links to external resources](https://www.jointdatacenter.org/) througho
 > This is a blockquote. Use it for important notes, citations, or highlighted information.
 
 ## Code and Analysis
-
-### Code Blocks
-
-Include code blocks with syntax highlighting:
-
-```python
-def calculate_statistics(data):
-    """Calculate basic statistics from data."""
-    return {
-        'mean': sum(data) / len(data),
-        'min': min(data),
-        'max': max(data)
-    }
-```
 
 ## Data Presentation
 
