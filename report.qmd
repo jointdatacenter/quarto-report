@@ -134,12 +134,12 @@ You can create two-column layouts using div containers:
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 ### Left Column
 Content for the left column goes here. This could include text, lists, or other elements.
 :::
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 ### Right Column
 Content for the right column goes here. Useful for comparisons or side-by-side information.
 :::
