@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "report.html",
+    "href": "report.html",
+    "title": "JDC Report Template",
+    "section": "",
+    "text": "This is a template for creating reports using the JDC (Joint Data Center) brand settings. The template integrates seamlessly with Quarto’s document system and applies consistent JDC branding throughout.\nTo learn more about Quarto documents, see https://quarto.org/docs/."
+  },
+  {
+    "objectID": "report.html#introduction",
+    "href": "report.html#introduction",
+    "title": "JDC Report Template",
+    "section": "",
+    "text": "This is a template for creating reports using the JDC (Joint Data Center) brand settings. The template integrates seamlessly with Quarto’s document system and applies consistent JDC branding throughout.\nTo learn more about Quarto documents, see https://quarto.org/docs/."
+  },
+  {
+    "objectID": "report.html#document-structure",
+    "href": "report.html#document-structure",
+    "title": "JDC Report Template",
+    "section": "2 Document Structure",
+    "text": "2 Document Structure\n\n2.1 YAML Header\nThe YAML header defines the content and formatting of your report:\n\n\n2.2 Sections and Subsections\n\nLevel 1 headings (#) create main sections\nLevel 2 headings (##) create subsections\nLevel 3 headings (###) create sub-subsections\n\nThe table of contents automatically generates from your heading structure."
+  },
+  {
+    "objectID": "report.html#content-elements",
+    "href": "report.html#content-elements",
+    "title": "JDC Report Template",
+    "section": "3 Content Elements",
+    "text": "3 Content Elements\n\n3.1 Lists\nUnordered lists use bullet points:\n\nItem 1\n\nSub-item 1.1\nSub-item 1.2\n\nItem 2\n\nOrdered lists use numbers:\n\nFirst step\nSecond step\nThird step\n\n\n\n3.2 Text Formatting\nYou can use bold text, italic text, or bold italic text.\nUse inline code for technical terms or code snippets.\n\n\n3.3 Links\nInclude links to external resources throughout your document.\n\n\n3.4 Blockquotes\n\nThis is a blockquote. Use it for important notes, citations, or highlighted information."
+  },
+  {
+    "objectID": "report.html#code-and-analysis",
+    "href": "report.html#code-and-analysis",
+    "title": "JDC Report Template",
+    "section": "4 Code and Analysis",
+    "text": "4 Code and Analysis"
+  },
+  {
+    "objectID": "report.html#data-presentation",
+    "href": "report.html#data-presentation",
+    "title": "JDC Report Template",
+    "section": "5 Data Presentation",
+    "text": "5 Data Presentation\n\n5.1 Tables\n\n\n\nCountry\nPopulation\nGDP (Billion USD)\n\n\n\n\nCountry A\n50M\n250\n\n\nCountry B\n30M\n180\n\n\nCountry C\n80M\n420\n\n\n\n\n\n5.2 Figures\nYou can include images using Markdown syntax:\n![Caption for your figure](path/to/image.jpg)"
+  },
+  {
+    "objectID": "report.html#callouts",
+    "href": "report.html#callouts",
+    "title": "JDC Report Template",
+    "section": "6 Callouts",
+    "text": "6 Callouts\nQuarto supports different types of callouts for highlighting information:\n\n\n\n\n\n\nNote\n\n\n\nThis is a note callout. Use it for general information.\n\n\n\n\n\n\n\n\nTip\n\n\n\nThis is a tip callout. Use it for helpful suggestions.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nThis is a warning callout. Use it for important cautions.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThis is an important callout. Use it for critical information."
+  },
+  {
+    "objectID": "report.html#brand-helper-classes",
+    "href": "report.html#brand-helper-classes",
+    "title": "JDC Report Template",
+    "section": "7 Brand Helper Classes",
+    "text": "7 Brand Helper Classes\nThe JDC template includes helper classes for applying brand colors:\n\n7.1 Text Colors\n\nUse {.text-blue} for blue text\nUse {.text-navy} for navy text\nUse {.text-green} for green text\nUse {.text-yellow} for yellow text\nUse {.text-grey} for grey text\n\n\n\n7.2 Background Colors\n\nThis content has a light blue background. Use it to highlight key information.\n\n\nThis content has a light green background. Use it for success messages or positive information.\n\n\nThis content has a light yellow background. Use it for warnings or important notes."
+  },
+  {
+    "objectID": "report.html#two-column-layouts",
+    "href": "report.html#two-column-layouts",
+    "title": "JDC Report Template",
+    "section": "8 Two-Column Layouts",
+    "text": "8 Two-Column Layouts\nYou can create two-column layouts using div containers:\n\n\n\n8.1 Left Column\nContent for the left column goes here. This could include text, lists, or other elements.\n\n\n\n8.2 Right Column\nContent for the right column goes here. Useful for comparisons or side-by-side information."
+  },
+  {
+    "objectID": "report.html#conclusion",
+    "href": "report.html#conclusion",
+    "title": "JDC Report Template",
+    "section": "9 Conclusion",
+    "text": "9 Conclusion\nThis template provides a foundation for creating professional JDC-branded reports. Customize the content while maintaining the consistent brand identity.\nFor more information about Quarto features and capabilities, visit the Quarto documentation."
+  }
+]

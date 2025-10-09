@@ -2,7 +2,8 @@ execute:
   freeze: auto
 
 project:
-  type: default
+  type: website
+  output-dir: docs
 
 # Enable brand integration across the project
 brand: "_brand.yml"
