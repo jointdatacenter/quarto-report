@@ -12,24 +12,23 @@ $border-radius: 0 !default;
 
 // Header styling
 #title-block-header {
-  background-color: $brand-blue;
-  color: $brand-light;
   padding: 2rem;
   margin-bottom: 2rem;
+  border-bottom: 1px solid lighten($brand-grey, 30%);
 
   .title {
-    color: $brand-yellow;
+    color: $brand-navy;
   }
 
   .subtitle {
-    color: $brand-light;
+    color: $brand-dark;
     font-size: 1.3em;
   }
 
   .author,
   .date,
   .abstract {
-    color: $brand-light;
+    color: $brand-grey;
   }
 }
 
@@ -73,15 +72,15 @@ main {
   }
 }
 
-// Table of contents
-#TOC {
-  border-left: 3px solid $brand-blue;
+// // Table of contents
+// #TOC {
+//   border-left: 1px solid $brand-blue;
 
-  .active {
-    border-left-color: $brand-yellow;
-    font-weight: 600;
-  }
-}
+//   .active {
+//     border-left-color: $brand-yellow;
+//     font-weight: 600;
+//   }
+// }
 
 // JDC brand helper classes
 // Text color utilities
@@ -114,30 +113,31 @@ main {
   padding: 0.5rem 1rem;
   display: block;
   margin: 1rem 0;
+  color: $brand-dark;
 }
 
 .bg-blue {
-  background-color: lighten($brand-blue, 45%);
+  background-color: lighten($brand-blue, 52%);
   border-left: 4px solid $brand-blue;
 }
 
 .bg-navy {
-  background-color: lighten($brand-navy, 60%);
+  background-color: lighten($brand-navy, 68%);
   border-left: 4px solid $brand-navy;
 }
 
 .bg-green {
-  background-color: lighten($brand-green, 45%);
+  background-color: lighten($brand-green, 52%);
   border-left: 4px solid $brand-green;
 }
 
 .bg-yellow {
-  background-color: lighten($brand-yellow, 30%);
-  border-left: 4px solid $brand-yellow;
+  background-color: lighten($brand-yellow, 38%);
+  border-left: 4px solid darken($brand-yellow, 10%);
 }
 
 .bg-grey {
-  background-color: lighten($brand-grey, 45%);
+  background-color: lighten($brand-grey, 52%);
   border-left: 4px solid $brand-grey;
 }
 

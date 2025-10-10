@@ -3,8 +3,12 @@ title: JDC Report Template
 subtitle: Using JDC Brand Settings
 author: Your Name
 date: today
-format: jdc-html
-embed-resources: true
+format:
+  jdc-html:
+    embed-resources: true
+  pdf:
+    toc: true
+    number-sections: true
 ---
 
 ## Introduction
