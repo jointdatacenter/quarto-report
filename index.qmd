@@ -15,7 +15,7 @@ format:
 
 This is a template for creating reports using the JDC (Joint Data Center) brand settings. The template integrates seamlessly with Quarto's document system and applies consistent JDC branding throughout.
 
-To learn more about Quarto documents, see <https://quarto.org/docs/>.
+To learn more, visit: <https://quarto.org/docs/>.
 
 ## Document Structure
 
